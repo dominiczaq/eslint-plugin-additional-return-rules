@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-additional-return-rules",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Return rules",
   "keywords": [
     "eslint",
